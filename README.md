@@ -1,1 +1,1 @@
-We will bunch of tasks here and there beginning from today.
+We will have bunch of tasks here and there beginning from today.
