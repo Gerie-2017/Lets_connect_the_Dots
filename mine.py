@@ -1,4 +1,4 @@
-def compute_ints(a,b):
+def compute_ints(a=None,b=None):
     a = input("Enter a number: ", int(a))
 
     b = input("Enter another number: ", int(b))
@@ -10,8 +10,6 @@ def compute_ints(a,b):
             print("Error: I cannot accept a zero value for the second number.")
     except ValueError:
         print("Error: I cannot accept a zero value for the second number.")
-
-
 
     if operator == "+":
         result = (a+b)
